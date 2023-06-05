@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Note:
+Rewrite this amazing plugin https://gist.github.com/vanifatovvlad/d4850eb008149c06021f1cdd14ec84af  without the Odin plugin requirement
+
 <!--
 **Theo-Farnole/theo-farnole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
